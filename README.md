@@ -1,2 +1,4 @@
 # hello-world
-Just trying out
+
+Hi Humans,
+Just trying to learn a bit about data analysis.
